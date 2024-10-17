@@ -4,10 +4,10 @@ Developed and enhanced a Flutter-powered desktop and web app for a no-code platf
 ### Overview:
 I designed and implemented a JSON-to-Dart model generator for a no-code platform built using Flutter. This feature transforms JSON input into structured Dart classes, streamlining the development of Flutter apps by generating reusable models automatically. My work involved integrating multiple functionalities such as interactive JSON editing, custom tree views, and conflict-free model generation, focusing on enhancing the user experience and optimizing code reliability.
 
-I’m incredibly proud of this project because it highlights my technical skills and ability to deliver end-to-end solutions. However, the code is confidential, and while I cannot share it in full
+I’m incredibly proud of this feature because it highlights my technical skills and ability to deliver end-to-end solutions. However, the code is confidential, and while I cannot share it.
 
 
-
+check video : 
 
 https://github.com/user-attachments/assets/65dd501d-5108-4e2a-bd95-36ab7c4f6775
 
