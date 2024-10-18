@@ -41,3 +41,9 @@ Integration: Leveraged the provider package for state management, ensuring smoot
 Performance: Designed the feature to minimize re-renders and maintain high UI responsiveness during complex data operations.
 
 
+
+## System Architecture
+
+<img width="1217" alt="Screenshot 2024-10-18 at 1 50 03 PM" src="https://github.com/user-attachments/assets/bdc60311-b08e-44ae-9fce-f13f8c746904">
+
+
