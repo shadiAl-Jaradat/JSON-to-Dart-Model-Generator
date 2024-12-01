@@ -1,21 +1,51 @@
 # JSON-to-Dart Model Generator Feature in Nowa : 
 Developed and enhanced a Flutter-powered desktop and web app for a no-code platform, enabling users to generate mobile apps with Flutter as the underlying source code. My work spanned coding, product strategy, feature identification, user experience optimization, and ensuring high performance and stability across the platform. and Here’s a main fetures that I proud of.
 
-### Overview:
+
+## Table of content 
+
+1. [Overview](#overview-)
+2. [Video](#video-)
+3. [High Level Architecture](#high-level-architecture)
+4. [Workflow](#workflow)
+5. [Feature Highlights](#feature-highlights)
+6. [Solution Design Process](#solution-design-process)
+
+
+## Overview :
 I designed and implemented a JSON-to-Dart model generator for a no-code platform built using Flutter. This feature transforms JSON input into structured Dart classes, streamlining the development of Flutter apps by generating reusable models automatically. My work involved integrating multiple functionalities such as interactive JSON editing, custom tree views, and conflict-free model generation, focusing on enhancing the user experience and optimizing code reliability.
 
 I’m incredibly proud of this feature because it highlights my technical skills and ability to deliver end-to-end solutions. However, the code is confidential, so I cannot share it.
 
-
-check video : 
+## Video : 
 
 https://github.com/user-attachments/assets/65dd501d-5108-4e2a-bd95-36ab7c4f6775
 
 
+## High Level Architecture
+
+<img width="942" alt="image" src="https://github.com/user-attachments/assets/2f303caa-780a-4404-8a2d-a355c2f4d52d">
 
 
+## Workflow
+1- JSON Input:
+  - Users enter JSON in the JsonEditor.
+  - The editor validates the JSON and prettifies the format.
 
-### Feature Highlights:
+2- Data Selection:
+  - The JSON structure is visualized as a tree.
+  - Users select the relevant data nodes for model generation.
+
+3- Model Generation:
+  - The GenerateModelProvider processes the selected JSON and generates Dart model classes using DataGenerator.
+  - Users can review, rename, and customize the generated models.
+
+4- Save Models:
+  - Models are saved to the specified directory.
+  - The models will opened in the editor.
+
+
+## Feature Highlights:
 
 #### 1- Interactive JSON Editor:
 
@@ -42,7 +72,7 @@ Performance: Designed the feature to minimize re-renders and maintain high UI re
 
 
 
-## Solution Architecture
+## Solution Design Process
 
 <img width="1217" alt="Screenshot 2024-10-18 at 1 50 03 PM" src="https://github.com/user-attachments/assets/bdc60311-b08e-44ae-9fce-f13f8c746904">
 
