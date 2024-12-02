@@ -7,7 +7,7 @@ Developed and enhanced a Flutter-powered desktop and web app for a no-code platf
 1. [Overview](#overview-)
 2. [Video](#video-)
 3. [High Level Architecture](#high-level-architecture)
-4. [Workflow](#workflow)
+4. [How it works](#how-it-works)
 5. [Feature Highlights](#feature-highlights)
 6. [Solution Design Process](#solution-design-process)
 
@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/65dd501d-5108-4e2a-bd95-36ab7c4f6775
 <img width="942" alt="image" src="https://github.com/user-attachments/assets/2f303caa-780a-4404-8a2d-a355c2f4d52d">
 
 
-## Workflow
+## How it works
 1- JSON Input:
   - Users enter JSON in the JsonEditor.
   - The editor validates the JSON and prettifies the format.
